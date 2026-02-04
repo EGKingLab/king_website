@@ -1,0 +1,195 @@
+---
+title: "People"
+---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<script src="https://kit.fontawesome.com/25264fd477.js" crossorigin="anonymous"></script>
+
+## Kevin Middleton (he/him)
+
+[<i class="fa-solid fa-envelope fa-2x"></i>](mailto:middletonk@missouri.edu) [<i class="ai ai-google-scholar-square ai-2x"></i>](https://scholar.google.com/citations?user=Ziha7x8AAAAJ) [<i class="ai ai-orcid-square ai-2x"></i>](https://orcid.org/0000-0003-4704-1064) [<i class="ai ai-pubmed-square ai-2x"></i>](https://www.ncbi.nlm.nih.gov/myncbi/kevin.middleton.1/bibliography/public/) [<i class="fa-brands fa-square-github fa-2x"></i>](https://github.com/Middleton-Lab) [<i class="fa-brands fa-github-alt fa-2x"></i>](https://github.com/kmiddleton) [<i class="ai ai-osf-square ai-2x"></i>](https://osf.io/fbh2k/)
+
+::: {layout-ncol=2}
+
+I am an Associate Professor in the [MU Division of Biological Sciences](https://biology.missouri.edu/). My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I'm an active member of the informal  [DataPhiles](https://elizabethking.org/dataphiles/) discussion group.
+
+![](images/middleton.png){fig-alt="Photo of bicyclist wearing winter clothing."}
+
+:::
+
+Previously I was a faculty member in the [Department of Pathology and Anatomical Sciences in the University of Missouri School of Medicine](https://medicine.missouri.edu/departments/pathology-and-anatomical-sciences). From 2007-2012, I was in the [Department of Biology at California State University, San Bernardino](http://biology.csusb.edu/). Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the [Department of Ecology and Evolutionary Biology at Brown University](http://www.brown.edu/academics/ecology-and-evolutionary-biology/).
+
+If you want to read about bird foot evolution, here's a link to my dissertation: [Morphology, evolution, and function of the avian hallux](http://www.worldcat.org/title/morphology-evolution-and-function-of-the-avian-hallux/oclc/54004056).
+
+I firmly believe in (a modified version of) [Federico Ardila's](http://math.sfsu.edu/federico/) [basic axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf):
+
+> Axiom 1. Quantitative biology potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
+
+> Axiom 2. Everyone can have joyful, meaningful, and empowering quantitative biology experiences.
+
+> Axiom 3. Quantitative biology is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
+
+> Axiom 4. Every student deserves to be treated with dignity and respect.
+
+
+### Lab Dogs
+
+We have two honorary dog members. 
+
+Learn more about [Reni King-Middleton](Team/reni.html)
+
+
+### Graduate Researchers
+
+:::{.callout-note icon=false}
+
+## Interested in graduate studies?
+
+If you an interested in graduate study in the Division of Biological Sciences, send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:middletonk@missouri.edu).
+
+:::
+
+
+### Undergraduate Researchers
+
+#### Gabi Ramirez
+
+::: {layout-ncol=2}
+
+- Computer Science, MARC Fellow
+- Deep learning applications for the study of craniofacial growth
+
+![](images/ramirez.jpg)
+:::
+
+
+:::{.callout-note icon=false}
+
+
+## Interested in undergraduate research?
+
+If you an interested in undergraduate research, send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:middletonk@missouri.edu).
+
+:::
+
+## Lab Alumni
+
+### Graduate Researchers
+
+#### Sarah Peacock
+
+::: {layout-ncol=2}
+
+- Effects of light on bone phenotypes, Modern human variation, Human craniofacial morphology, Forensic anthropology
+- PhD University of Missouri, 2019
+- Currently an Assistant Teaching Professor at Northeastern University
+
+![](images/peacock.jpg)
+:::
+
+
+#### Amanda Smolinsky
+
+::: {layout-ncol=2}
+
+- Skeletal evolution, Locomotor evolution in vertebrates, Effects of loading on bone phenotypes, Functional morphology
+- PhD University of Missouri, 2018
+- Currently an Assistant Teaching Professor at Rowan University School of Medicine
+
+![](images/smolinsky.jpg)
+:::
+
+#### Brittney Coats
+
+::: {layout-ncol=2}
+
+- Energy regulation, Inflammatory role of adipose tissue
+- MS CSU San Bernardino 2012
+- PhD University of Chicago
+- Currently at ITW David Speer Academy, Chicago, IL
+
+![](images/coats.jpg)
+:::
+
+#### Lauren English
+
+[<i class="ai ai-orcid-square ai-2x"></i>](https://orcid.org/0000-0002-4440-1485)
+
+::: {layout-ncol=2}
+
+- Morphometrics of pterosaurs
+- MS CSU San Bernardino 2012
+- PhD University of Texas at Austin
+- Currently a museum scientist at University of California, Riverside
+
+:::
+
+#### Susan Lujan
+
+::: {layout-ncol=2}
+
+- Effects of atmospheric oxygen on growth in alligators
+- MS CSU San Bernardino 2012
+
+:::
+
+
+### Undergraduate Researchers
+
+#### Adam Albright (2021-2023)
+
+- Mechanisms of insect flight, Imaging and CT scanning, Genetics
+- University of Missouri, 2023
+
+#### Josh Fajardo  (2020-2022)
+
+- Locomotor biomechanics, machine learning, developing tools for studying mouse locomotion
+- University of Missouri, 2022
+
+#### Maddy LaChance (2020-2022)
+
+- Cranial morphology in mice, Geometric morphometrics
+- MU Cherng Summer Scholar
+- University of Missouri, 2022
+
+#### Kayla Robinson (2021-2022)
+
+- MU DBS Honors Student
+
+#### Alec Wilken (2016-2019)
+
+- PhD University of Chicago, 2026
+
+#### Caitlyn Smith (2016-2018)
+
+- Currently a student in the University of Missouri School of Medicine
+
+#### Kendra Lewis (2018)
+
+- MU School of Medicine Summer Research Intern from Washington University in St. Louis
+
+#### Rebecca Meyer (2016-2018)
+
+- Currently in medical school at the Kentucky College of Medicine
+
+#### Nick Bira (2014-2018) [<i class="fa-solid fa-globe"></i>](https://sites.google.com/oregonstate.edu/nicholasbira/) [<i class="ai ai-google-scholar-square ai-1x"></i>](https://scholar.google.com/citations?user=-J8YrdAAAAAJ&hl=en) [<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/nicholasbira)
+
+- C3 Hughes Research Fellow
+- Completed PhD at Oregon State University, 2022
+
+#### Kyle Kirkland (2015)
+
+- MU School of Medicine Summer Research Intern from Michigan State University
+
+#### Michael Sojka (2014-2015) [<i class="fa-solid fa-globe"></i>](https://www.michaelsojka.com/home) [<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/sojkamichael/)
+
+- C3 Hughes Research Fellow, MU School of Journalism
+
+#### Tarrin Casey, MD (2014)
+
+- MD University of Missouri School of Medicine
+
+#### Diana Salas (2013)
+
+- MU School of Medicine Summer Research Intern from Indiana University
