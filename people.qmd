@@ -6,13 +6,15 @@ title: "People"
 
 <script src="https://kit.fontawesome.com/25264fd477.js" crossorigin="anonymous"></script>
 
-## Kevin Middleton (he/him)
+## Elizabeth (Libby) King (she/her)
 
-[<i class="fa-solid fa-envelope fa-2x"></i>](mailto:middletonk@missouri.edu) [<i class="ai ai-google-scholar-square ai-2x"></i>](https://scholar.google.com/citations?user=Ziha7x8AAAAJ) [<i class="ai ai-orcid-square ai-2x"></i>](https://orcid.org/0000-0003-4704-1064) [<i class="ai ai-pubmed-square ai-2x"></i>](https://www.ncbi.nlm.nih.gov/myncbi/kevin.middleton.1/bibliography/public/) [<i class="fa-brands fa-square-github fa-2x"></i>](https://github.com/Middleton-Lab) [<i class="fa-brands fa-github-alt fa-2x"></i>](https://github.com/kmiddleton) [<i class="ai ai-osf-square ai-2x"></i>](https://osf.io/fbh2k/)
+[<i class="fa-solid fa-envelope fa-2x"></i>](mailto:kingeg@missouri.edu) [<i class="ai ai-google-scholar-square ai-2x"></i>](https://scholar.google.com/citations?user=Ziha7x8AAAAJ) [<i class="ai ai-orcid-square ai-2x"></i>](https://orcid.org/0000-0003-4704-1064) [<i class="ai ai-pubmed-square ai-2x"></i>](https://www.ncbi.nlm.nih.gov/myncbi/kevin.middleton.1/bibliography/public/) [<i class="fa-brands fa-square-github fa-2x"></i>](https://github.com/Middleton-Lab) [<i class="fa-brands fa-github-alt fa-2x"></i>](https://github.com/kmiddleton) [<i class="ai ai-osf-square ai-2x"></i>](https://osf.io/fbh2k/)
 
 ::: {layout-ncol=2}
 
-I am an Associate Professor in the [MU Division of Biological Sciences](https://biology.missouri.edu/). My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I'm an active member of the informal  [DataPhiles](https://elizabethking.org/dataphiles/) discussion group.
+I am an Associate Professor in the [MU Division of Biological Sciences](https://biology.missouri.edu/). Before joining the faculty at Mizzou in 2014, I was a postdoctoral scholar in [Tony Long's lab](https://wfitch.bio.uci.edu/~tdlong/sandvox/) at [UC Irvine](https://ecoevo.bio.uci.edu/) where I first started working on the [DSPR](https://wfitch.bio.uci.edu/~dspr/) Further back in time, I was an undergraduate at [Grinnell College](https://www.grinnell.edu/) and then a PhD student working on wing dimorphic insects with Daphne Fairbairn and Derek Roff at [UC Riverside](https://www.ucr.edu/).
+
+I am an Associate Professor in the . My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I'm an active member of the informal  [DataPhiles](https://elizabethking.org/dataphiles/) discussion group.
 
 ![](images/middleton.png){fig-alt="Photo of bicyclist wearing winter clothing."}
 
