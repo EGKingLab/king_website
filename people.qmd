@@ -14,25 +14,38 @@ title: "People"
 
 I am an Associate Professor in the [MU Division of Biological Sciences](https://biology.missouri.edu/). Before joining the faculty at Mizzou in 2014, I was a postdoctoral scholar in [Tony Long's lab](https://wfitch.bio.uci.edu/~tdlong/sandvox/) at [UC Irvine](https://ecoevo.bio.uci.edu/) where I first started working on the [DSPR](https://wfitch.bio.uci.edu/~dspr/). Further back in time, I was an undergraduate at [Grinnell College](https://www.grinnell.edu/) and then a PhD student working on wing dimorphic insects with Daphne Fairbairn and Derek Roff at [UC Riverside](https://www.ucr.edu/).
 
-![](images/middleton.png){fig-alt="Photo of bicyclist wearing winter clothing."}
+![](images/EGK_dogs.png){height=200px fig-alt="Photo of Dr. King with two dogs."}
 
 :::
 
-### Graduate Researchers
+### Lab Members 
 
-Learn more about the current King lab graduate students:
+:::{.callout-note icon=false}
+
+## Learn about our team
+
+Click on each lab member's name to learn more about them!
+
+Interested in joining the team? Send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:kingeg@missouri.edu).
+
+
+:::
+
+## Postdoctoral Scholars
+
+-  Srikant Ventkitachalam
+
+## Graduate Students 
 
 -  [Elliett Baca](Team/ejb.html)
 -  Esdras Tuyishimire
 -  [Mary York](Team/myork.html)
 
-:::{.callout-note icon=false}
 
-## Interested in graduate studies?
 
-If you an interested in graduate study in the Division of Biological Sciences, send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:kingeg@missouri.edu).
 
-:::
+
+
 
 
 ### Undergraduate Researchers

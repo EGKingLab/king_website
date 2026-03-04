@@ -12,13 +12,22 @@ title: "Reiley Heffern"
 
 ::: {layout-ncol=2}
 
+::: {.column}
+
 I am an undergraduate researcher in the [MU Division of Biological Sciences](https://biology.missouri.edu/). My interests include genetics, disease models, and disease inheritance.
 
-![](Headshotcopy.jpg){fig-alt="Photo of Reiley"}
+I'm from St. Louis, MO and am a senior biological sciences major here at Mizzou. Outside of the King Lab, I work as a Peer Navigator for the MU College of Arts & Science and as an at-home, Nespresso-enthusiast barista. After graduation, I plan to pursue a degree in genetic counseling!
 
 :::
 
-I'm from St. Louis, MO and am a senior biological sciences major here at Mizzou. Outside of the King Lab, I work as a Peer Navigator for the MU College of Arts & Science and as an at-home, Nespresso-enthusiast barista. After graduation, I plan to pursue a degree in genetic counseling!
+::: {.column}
+
+
+![](../images/HeffernReiley.jpg){fig-alt="Photo of Reiley"}
+
+:::
+
+::::
 
 ### Research Projects
 
