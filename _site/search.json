@@ -23,9 +23,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research Areas",
+    "title": "Research Areas in the King Lab",
     "section": "",
-    "text": "Add"
+    "text": "Our lab is part of a collaborative project to develop a community resource for the genetic dissection of complex traits in Drosophila melanogaster. The Drosophila Synthetic Population Resource (DSPR) is a multiparental population (MPP) consisting of a large collection of recombinant inbred lines derived from an 8-way 50 generation intercross.\n\n\n\nThis design creates a panel of lines whose genomes are a mosaic of the original 8 founder lines, allowing for unprecedented mapping resolution for a linkage-based panel. In addition to using these lines in our research, we also work on describing the genetic properties of the resource and developing analytical tools and methodologies to enable other users. We have also developed and maintain the DSPRqtl R package to aid QTL mapping analyses with these lines."
   },
   {
     "objectID": "research.html#dspr",
@@ -117,5 +117,19 @@
     "title": "People",
     "section": "Lab Members",
     "text": "Lab Members\n\n\n\n\n\n\nNoteLearn about our team\n\n\n\nClick on each lab member’s name below to learn more about them! Interested in joining the team? Send me an email .\n\n\n\n\n\n\nLab Manager\n\nCameron Trowbridge\n\n\n\nPostdoctoral Scholars\n\nSrikant Ventkitachalam\n\n\n\nGraduate Students\n\nElliett Baca\nEsdras Tuyishimire\nMary York\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Researchers\n\nPayton Barlow\nAlaina Franke\nDiamond Francois\nReiley Heffern\nJake Wilson"
+  },
+  {
+    "objectID": "research.html#development-of-multiparent-population-resources",
+    "href": "research.html#development-of-multiparent-population-resources",
+    "title": "Research Areas in the King Lab",
+    "section": "",
+    "text": "Our lab is part of a collaborative project to develop a community resource for the genetic dissection of complex traits in Drosophila melanogaster. The Drosophila Synthetic Population Resource (DSPR) is a multiparental population (MPP) consisting of a large collection of recombinant inbred lines derived from an 8-way 50 generation intercross.\n\n\n\nThis design creates a panel of lines whose genomes are a mosaic of the original 8 founder lines, allowing for unprecedented mapping resolution for a linkage-based panel. In addition to using these lines in our research, we also work on describing the genetic properties of the resource and developing analytical tools and methodologies to enable other users. We have also developed and maintain the DSPRqtl R package to aid QTL mapping analyses with these lines."
+  },
+  {
+    "objectID": "research.html#experimental-evolution",
+    "href": "research.html#experimental-evolution",
+    "title": "Research Areas in the King Lab",
+    "section": "Experimental Evolution",
+    "text": "Experimental Evolution\n\n\n\n\n\n\nOur lab regularly employs an experimental evolution approach using fruit fly populations. As our fly populations adapt to different treatements, we characterize changes across the genotype to phenotype map, providing an integrated, unprecedented look at microevolution in action. You can see an example of this evolution happening by looping the video below, which shows how haplotype frequencies change across one chromosome arm in one selection line over several generations."
   }
 ]
