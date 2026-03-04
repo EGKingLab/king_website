@@ -18,37 +18,46 @@ I am an Associate Professor in the [MU Division of Biological Sciences](https://
 
 :::
 
-### Lab Members 
+## Lab Members 
 
 :::{.callout-note icon=false}
 
 ## Learn about our team
 
-Click on each lab member's name to learn more about them!
-
+**Click on each lab member's name below to learn more about them!**
 Interested in joining the team? Send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:kingeg@missouri.edu).
 
 
 :::
 
-## Postdoctoral Scholars
+::: {layout-ncol=2}
+
+::: {.column}
+
+#### Lab Manager
+
+-   Cameron Trowbridge
+
+#### Postdoctoral Scholars
 
 -  Srikant Ventkitachalam
 
-## Graduate Students 
+#### Graduate Students
 
 -  [Elliett Baca](Team/ejb.html)
 -  Esdras Tuyishimire
 -  [Mary York](Team/myork.html)
+:::
 
+::: {.column}
 
+![](images/columns.png){fig-alt="Photo of a group of graduates."}
 
-
-
-
-
-
-### Undergraduate Researchers
+:::
+:::
+::: {layout-ncol=2}
+::: {.column}
+#### Undergraduate Researchers
 
 - Payton Barlow
 - Alaina Franke
@@ -56,16 +65,14 @@ Interested in joining the team? Send me an email [<i class="fa-solid fa-envelope
 - [Reiley Heffern](Team/reiley.html)
 - Jake Wilson
 
-:::{.callout-note icon=false}
+:::
 
+::: {.column}
 
-## Interested in undergraduate research?
-
-If you an interested in undergraduate research, send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:kingeg@missouri.edu).
+![](images/UG_poster.png){fig-alt="Photo of two students in front of a scientific poster."}
 
 :::
 
-## Lab Alumni
+:::
 
-### Graduate Researchers
 
