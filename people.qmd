@@ -45,7 +45,7 @@ Interested in joining the team? Send me an email [<i class="fa-solid fa-envelope
 #### Graduate Students
 
 -  [Elliett Baca](Team/ejb.html)
--  Esdras Tuyishimire
+-  [Esdras Tuyishimire](Team/Esdras.html)
 -  [Mary York](Team/myork.html)
 :::
 
