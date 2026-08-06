@@ -1,0 +1,37 @@
+---
+title: "Srikant Venkitachalam"
+---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+```{=html}
+<script src="https://kit.fontawesome.com/25264fd477.js" crossorigin="anonymous"></script>
+```
+
+## Srikant Venkitachalam (he/him)
+
+[<i class="fa-solid fa-envelope fa-2x"></i>](mailto:svqht@missouri.edu) 
+[<i class="ai ai-google-scholar-square ai-2x"></i>](https://scholar.google.com/citations?hl=en&authuser=1&user=-HkEGYoAAAAJ) 
+[<i class="ai ai-orcid-square ai-2x"></i>](https://orcid.org/0000-0002-5462-7162) 
+[<i class="fa-brands fa-github-alt fa-2x"></i>](https://github.com/SrikantVenkitachalam)
+
+::: {layout-ncol="2"}
+![](../images/Srikant_V.jpg){fig-alt="Photo of Srikant Venkitachalam"}
+:::
+
+I am a postdoctoral scholar at the [Division of Biological Sciences, MU](https://biology.missouri.edu/). My primary research in the King Lab is on complex trait evolution in laboratory populations of fruit flies (genus _Drosophila_). I have contributed to research in two laboratory selection studies: the evolution of flight performance, and adaptation to high temperature conditions. Additionally, I am also working on a project to understand life-history variation in flies.
+
+I love photographing animals in urban areas, and have an interest in studying and drawing animals, particularly extinct ones. I also enjoy videogames, and diving into books and lore related to epic fantasy fiction.
+
+### Previous Academic Experience
+I completed my undergraduate in the University of Delhi, India, with an honours in Zoology. I did both my Masters and Ph.D. with [Prof. Amitabh Joshi](https://sites.google.com/view/ebl-jncasr/home?authuser=0) at the Evolutionary and Organismal Biology Unit at J.N.C.A.S.R., India.
+
+### Research Projects
+
+**The 'Flying-flies' project:** Selection for improved flight performance in outbred flies of the [Drosophila Synthetic Population Resource (DSPR)](https://wfitch.bio.uci.edu/~dspr/). In collaboration with [Dr. Kevin Middleton, MU](https://www.middletonlab.org/).
+
+**The 'Fire-flies' project:** Selection for survival and reproduction under high temperature conditions.
+
+Study of life history variation in fruit flies of African origin. In collaboration with [Dr. John Pool (University of Wisconsin)](https://www.johnpool.net/index.html) and [Dr. Enoch Ng'oma, MU](https://biology.missouri.edu/people/ngoma).
+
+<!-- Important: images must be small! Less than 1MB please! -->
