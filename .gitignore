@@ -9,3 +9,4 @@
 todo
 
 **/*.quarto_ipynb
+.positai
